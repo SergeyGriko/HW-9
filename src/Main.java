@@ -50,11 +50,6 @@ public class Main {
 
         }
         System.out.println(Arrays.toString(intArray));
-
-
-        System.out.println();
-        System.out.println("Задача Четвертая");
-
     }
 
 }
